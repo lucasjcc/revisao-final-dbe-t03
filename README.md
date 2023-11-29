@@ -9,3 +9,4 @@ API para aplicação de receitas que permite ao usuário:
 - Cadastrar produtos que tem na sua dispensa
 - Listar os produtos da sua dispensa
 - Gerar sugestões de receitas com produtos que ele selecionar
+- Salvar a receita
